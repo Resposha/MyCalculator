@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/adamina</item>
+        <item>@font/allerta</item>
+        <item>@font/fauna_one</item>
+        <item>@font/modern_antiqua</item>
+        <item>@font/ribeye_marrow</item>
+        <item>@font/wellfleet</item>
+    </array>
+</resources>
